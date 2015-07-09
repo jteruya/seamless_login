@@ -99,7 +99,7 @@ or a.applicationid = 'F0D34EF9-BA6E-4611-A57B-4C528D8E32A8'
 or a.applicationid = 'FF757ECB-56A1-41B1-AC02-5F609C3DB3DA'
 or a.applicationid = '85874647-B187-49EF-8A45-E3B5720E1755');
 
-/* 
+/* */ 
 
 select applicationid
      , name
